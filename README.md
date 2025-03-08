@@ -41,7 +41,7 @@ For Windows users, the `.exe` file can be executed directly by double-clicking t
 ## Setup for Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/advanced-video-downloader.git
+   git clone https://github.com/Sammymullern/all-video-downloader.git
    cd advanced-video-downloader
    ```
 2. Run the Python script:
